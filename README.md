@@ -13,7 +13,7 @@ Turn your 3DConnexion Space Mouse into an Eos encoder
 
 # Dependencies
 
-- Requires EosSyncLib
+- Requires [EosSyncLib](https://github.com/ElectronicTheatreControlsLabs/EosSyncLib)
 - Requires [3DConnexion 3DxWare SDK](http://www.3dconnexion.com/service/software-developer/licence-agreement/sdk-download.html)
 
 
